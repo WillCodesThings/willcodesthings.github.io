@@ -18,6 +18,7 @@ body {
 
 
 .myName {
+  left:10px;
   width: 75px;
   animation: typing 1s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
